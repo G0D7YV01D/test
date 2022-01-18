@@ -1,7 +1,7 @@
 answer = input("Enter yes or no: ") 
 if answer == "yes": 
-    # Do this. 
+    print("no")
 elif answer == "no": 
-    # Do that. 
+    print("yes")
 else: 
     print("Please enter yes or no.")
