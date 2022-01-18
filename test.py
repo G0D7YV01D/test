@@ -1,7 +1,7 @@
-cuddles = input("please input yes or no: ") 
-if cuddles == "yes": 
-    print("YeS") 
-elif cuddles == "no": 
-    print("nO") 
+cuddles = input("wanna cuddle? [Y/N]: ") 
+if cuddles == "Y": 
+    print("-cuddles-") 
+elif cuddles == "N": 
+    print("mean") 
 else: 
-    print("Please enter yes or no.") 
+    print("Please enter Y OR N.") 
