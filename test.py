@@ -1,5 +1,5 @@
-Question = input("your question")
-if Question == ("yes")
+Question = input("your question: ")
+if Question == ("yes"):
 	print ("well done")
-elif Question == ("no")
+elif Question == ("no"):
 	print ("try again")
