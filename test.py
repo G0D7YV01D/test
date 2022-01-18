@@ -4,4 +4,4 @@ if cuddle == ("Y"):
 elif cuddle == ("N"):
 	print ("mean")
 else:
-	print("Please enter Y or N")
+	print("Please enter a uppercase Y or N")
