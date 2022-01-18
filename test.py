@@ -1,5 +1,5 @@
-Question = input("your question: ")
-if Question == ("yes"):
+cuddle = input("wanna cuddle? [Y/N]: ")
+if cuddle == ("yes"):
 	print ("well done")
-elif Question == ("no"):
+elif cuddle == ("no"):
 	print ("try again")
