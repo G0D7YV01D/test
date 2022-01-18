@@ -1,7 +1,7 @@
-x = input("please input yes or no: ") 
-if x == "yes": 
+cuddles = input("please input yes or no: ") 
+if cuddles == "yes": 
     print("YeS") 
-elif x == "no": 
+elif cuddles == "no": 
     print("nO") 
 else: 
     print("Please enter yes or no.") 
