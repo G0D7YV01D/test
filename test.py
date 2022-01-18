@@ -1,4 +1,4 @@
-cuddle = input("wanna cuddle? [Y/N]: ")
+cuddle = input("wanna cuddle?: ")
 if cuddle == ("yes"):
 	print ("well done")
 elif cuddle == ("no"):
