@@ -1,7 +1,5 @@
-cuddles = input("Would you like to cuddle?[Y/N]")
-if cuddles == "Y":
-    print("°Cuddles°")
-elif "N" in cuddles:
-    print("Mean")
-else:
-    print("type Y or N please")
+Question = input("your question")
+if Question == ("yes")
+print ("well done")
+elif Question == ("no")
+print ("try again")
