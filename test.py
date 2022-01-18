@@ -1,7 +1,7 @@
 cuddles = input("wanna cuddle? [Y/N]: ") 
 if cuddles == "Y": 
-    print("-cuddles-") 
+    print("-cuddles-")
 elif cuddles == "N": 
-    print("mean") 
+    print("mean")
 else: 
     print("Please enter Y OR N.") 
