@@ -1,5 +1,5 @@
-cuddle = input("wanna cuddle?: ")
+cuddle = input("wanna cuddle?[Y/N]: ")
 if cuddle == ("yes"):
-	print ("well done")
+	print ("-cuddles=")
 elif cuddle == ("no"):
-	print ("try again")
+	print ("mean")
